@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Description
+Cette application web de partage est une plateforme interactive conçue pour permettre aux utilisateurs de partager facilement et efficacement une variété de contenus avec leurs amis.L'application offre une expérience conviviale et intuitive pour partager du contenu en quelques clics.
+
+Avec cette application, les utilisateurs peuvent créer des profils personnalisés, et interagir avec d'autres utilisateurs à travers des commentaires.
+
 ## Project Preview
 ![Group 5(1)](https://github.com/ousalahimane/Partage-des-posts/assets/130361823/14a60e12-f094-4656-97f5-6c10ae21dca8)
 ![Group 6](https://github.com/ousalahimane/Partage-des-posts/assets/130361823/a1482e3c-98c0-4514-b0b2-61ae065f1371)
